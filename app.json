@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "GoMarket",
+    "slug": "GoMarket",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
