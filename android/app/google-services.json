@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "167005558724",
+    "project_id": "gomarket-7038f",
+    "storage_bucket": "gomarket-7038f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167005558724:android:4843d2c997a6b1c85e3691",
+        "android_client_info": {
+          "package_name": "com.gomarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167005558724-r1k0omquukfi2g6epq5pd67ndb9c06vc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqUf9k1Hfa553UuI_tasEWcQwCkj81uv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167005558724-r1k0omquukfi2g6epq5pd67ndb9c06vc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
