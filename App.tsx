@@ -17,9 +17,9 @@ export default function App() {
     Roboto_500Medium,
   });
 
-  if (!fontsLoaded) {
-    return <AppLoading />;
-  }
+  // if (!fontsLoaded) {
+  //   return <AppLoading />;
+  // }
 
   return (
     <ThemeProvider theme={theme}>

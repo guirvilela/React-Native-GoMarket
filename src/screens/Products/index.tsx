@@ -11,7 +11,7 @@ export function Products() {
 
   return (
     <Container>
-      <Header title="Lista de compras" />
+      <Header title="Lista de compras" showLogoutButton />
       <ButtonsKilogram type={typeProduct} setType={setTypeProduct} />
 
       <FormBox typeProducts={typeProduct} />
